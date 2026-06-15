@@ -9,7 +9,7 @@ Currently targeting quant research and trading roles.
 ## What I Work On
 
 - **Futures microstructure** — ES calendar spread mean-reversion using Databento nanosecond order book; fair-value decomposition via SOFR + dividend yield
-- **ML-enhanced equity strategies** — XGBoost 4-quadrant L/S reclassifier on Russell 2000 momentum; 10-member ensemble on 19 cross-sectional features; regime diagnostics via feature importance rotation
+- **ML-enhanced equity strategies** — XGBoost 4-quadrant L/S momentum reclassifier on Russell 2000; 10-member ensemble on 19 cross-sectional features; regime diagnostics via feature importance rotation
 - **Derivatives pricing** — Heston calibration, Carr-Madan FFT, options market making frameworks (Avellaneda-Stoikov / GLFT), stochastic optimal control
 - **Competition** — IMC Prosperity 4: ranked 42nd globally in Phase 1 (~18k teams), finished in overall top 5%
 
