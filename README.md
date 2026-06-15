@@ -2,9 +2,9 @@
 
 ## About
 
-CS graduate (IIT Roorkee) → Quant Model Validation @ Wells Fargo → MFM @ NC State (GPA 3.82).  
-Building systematic strategies at the intersection of market microstructure, statistical signal construction, and stochastic optimal control.  
-Currently targeting quant research and trading roles.
+CS from IIT Roorkee. Two years validating credit scoring models at Wells Fargo.  
+Now doing Financial Mathematics at NC State - mostly focused on market microstructure and systematic strategies.  
+Looking for quant trading and research roles for 2027.
 
 ## What I Work On
 
