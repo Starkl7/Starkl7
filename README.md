@@ -3,7 +3,7 @@
 ## About
 
 CS from IIT Roorkee. Two years validating credit scoring models at Wells Fargo.  
-Now doing Financial Mathematics at NC State - mostly focused on market microstructure and systematic strategies.  
+Currently pursuing Financial Mathematics at NC State - mostly focused on market microstructure and systematic strategies.  
 Looking for quant trading and research roles for 2027.
 
 ## What I Work On
